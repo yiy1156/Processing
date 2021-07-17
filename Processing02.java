@@ -17,7 +17,7 @@
  * 
  *  For more details see http://processing.org/reference/ 
  */
-
+package processing;
 
 import processing.core.PApplet;
 
