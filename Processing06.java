@@ -1,8 +1,6 @@
 /**
  * Test program #6: Detecting key strokes and changing color of the line.
  * 
- * @author:      Joanna Klukowska
- * @since:       Oct. 31, 2013
  * 
  * Introduces:
  *             
@@ -14,11 +12,11 @@
  *               
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
-public class ProcessingExample06 extends PApplet 
+public class Processing06 extends PApplet 
 {	
 	public void setup() 
 	{
