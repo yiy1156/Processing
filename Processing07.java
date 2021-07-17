@@ -1,16 +1,14 @@
 /**
  * Test Program #7: Simulating continuous movement.
  * 
- * @author:      Joanna Klukowska
- * @since:       Oct. 31, 2013
  * 
  * 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
-public class ProcessingExample07 extends PApplet 
+public class Processing07 extends PApplet 
 {	
 	//dimensions of the canvas
 	int xMax = 500;
