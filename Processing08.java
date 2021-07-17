@@ -1,8 +1,6 @@
 /**
  * Test program #8: Controlling motion with the keyboard.
  * 
- * @author:      Joanna Klukowska
- * @since:       Oct. 31, 2013
  * 
  * Introduces:
  * 
@@ -15,11 +13,11 @@
  *             
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
-public class ProcessingExample08 extends PApplet 
+public class Processing08 extends PApplet 
 {	
 	//dimensions of the canvas
 	int xMax = 500;
