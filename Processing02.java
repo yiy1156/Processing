@@ -2,8 +2,6 @@
  * Test program #2: Changing color of the background and fill color
  * of shapes. 
  * 
- * @author:      Joanna Klukowska
- * @since:       Sept. 25, 2013
  * 
  * Introduces:
  * 
@@ -19,11 +17,11 @@
  * 
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+
 
 import processing.core.PApplet;
 
-public class ProcessingExample02  extends PApplet
+public class Processing02  extends PApplet
 {
 
 	public void setup()
