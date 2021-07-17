@@ -2,8 +2,6 @@
  * Test program #1: Setting up the applet and drawing rectangles at 
  * random locations. 
  * 
- * @author:      Joanna Klukowska
- * @since:        Sept. 25, 2013
  * 
  * Introduces:
  * 
@@ -28,7 +26,7 @@ package lecture11_processing;
 import processing.core.PApplet;
 
 
-public class ProcessingExample01  extends PApplet
+public class Processing01  extends PApplet
 {
 //	this method runs once at the beginning to setup the drawing
 //	area
