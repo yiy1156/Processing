@@ -2,8 +2,6 @@
  * Test program #5: Free hand drawing with the mouse pressed. Changing color
  * of the line.
  * 
- * @author:      Joanna Klukowska
- * @since:       Oct. 31, 2013
  * 
  * Introduces:
  * 
@@ -24,11 +22,11 @@
  *               
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
-public class ProcessingExample05 extends PApplet 
+public class Processing05 extends PApplet 
 {	
 	public void setup() 
 	{
