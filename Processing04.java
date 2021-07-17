@@ -2,8 +2,6 @@
  * Test program #4: Detecting mouse clicks and recognizing their type. Changing 
  * refresh rate (frame rate).
  * 
- * @author:      Joanna Klukowska
- * @since:       Sept. 25, 2013
  * 
  * Introduces:
  * 
@@ -18,11 +16,11 @@
  *               
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+
 
 import processing.core.PApplet;
 
-public class ProcessingExample04 extends PApplet 
+public class Processing04 extends PApplet 
 {	
 	public void setup() 
 	{
