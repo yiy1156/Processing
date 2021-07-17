@@ -3,16 +3,14 @@
  * This program uses a ball that moves "on its own" and a paddle that is 
  * controlled by the user. 
  * 
- * @author:      Joanna Klukowska
- * @since:       Oct. 31, 2013
  * 
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
-public class ProcessingExample09 extends PApplet 
+public class Processing09 extends PApplet 
 {	
 	//dimensions of the canvas
 	int xMax = 500;
