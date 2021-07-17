@@ -21,7 +21,7 @@
  *             
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 
