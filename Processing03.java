@@ -2,8 +2,6 @@
  * Test program #3: Printing text and changing its properties. Detecting mouse
  * clicks. 
  * 
- * @author:      Joanna Klukowska
- * @since:       Sept. 25, 2013
  * 
  * Introduces:
  * 
@@ -29,11 +27,11 @@
  *               
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+
 
 import processing.core.PApplet;
 
-public class ProcessingExample03 extends PApplet 
+public class Processing03 extends PApplet 
 {
 	public void setup() 
 	{
