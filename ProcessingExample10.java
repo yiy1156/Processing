@@ -1,8 +1,6 @@
 /**
  * Test program #10: Loading images
  *  
- * @author:      Joanna Klukowska
- * @since:       Nov. 4, 2013
  * 
  * Introduces:
  * 
@@ -20,12 +18,12 @@
  * 
  *  For more details see http://processing.org/reference/ 
  */
-package lecture11_processing;
+package processing;
 
 import processing.core.PApplet;
 import processing.core.PImage;
 
-public class ProcessingExample10 extends PApplet 
+public class Processing10 extends PApplet 
 {	
 	//dimensions of the canvas
 		int xMax = 600;
